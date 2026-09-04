@@ -2,7 +2,8 @@
 
 Rules for whichever agent is working in this repo, kept because each one
 traces back to something that actually went wrong or would have gone wrong
-unnoticed while building **Splinter** (`SLOP3972`).
+unnoticed while building `SLOP3972`, "The Fracturing of the Latter Day
+Saint Movement."
 
 ## Content order
 

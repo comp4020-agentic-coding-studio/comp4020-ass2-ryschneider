@@ -45,7 +45,7 @@ export const slopCourseMetaSchema = z
 //
 export const courseMeta = slopCourseMetaSchema.parse({
   code: "SLOP3972",
-  title: "Splinter: The Fracturing of the Latter Day Saint Movement",
+  title: "The Fracturing of the Latter Day Saint Movement",
   session: "Semester 1",
   year: 2027,
   level: 3,

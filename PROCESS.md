@@ -12,7 +12,8 @@ cover every deliverable.
 
 ## What I built
 
-**Splinter** (`SLOP3972`) is a fictional third-year history course that takes
+**The Fracturing of the Latter Day Saint Movement** (`SLOP3972`) is a
+fictional third-year history course that takes
 the 1844 Latter Day Saint succession crisis — Joseph Smith killed with no
 named successor, and the dozen-plus competing churches that argument
 produced — as a single semester-long case study in how institutions actually

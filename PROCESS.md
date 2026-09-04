@@ -25,6 +25,27 @@ institutional response) that students apply, week by week, to a different
 splinter group, then use to argue their own case in Assignment 1 and map the
 whole movement in the final project.
 
+It clears "no real university would run it" in a second way, beyond scope.
+A real history department teaching a living religion's internal fractures —
+one where the FLDS branch is still tied to active plural-marriage
+prosecutions — is the kind of subject a curriculum committee tables rather
+than approves as a stable survey course; a fictional university doesn't
+carry that institutional risk.
+
+**A position on what a good course is.** Before settling on that structure I
+looked at the three example courses in the brief. Calling Bullshit holds one
+stated position for a semester; How to Make (Almost) Anything is a fixed
+list of machines applied to everything a student builds; CS 007 stays plain
+and doesn't pad a narrow subject with unrelated breadth. What they share is
+committing to one idea and running it the whole way through, rather than
+covering ground. That's the position behind this course's framework: every
+week reapplies the same four-part lens to a new group instead of teaching a
+new one, so depth compounds instead of resetting each week. I wrote that
+into the harness as a rule ("One throughline, not new machinery every
+week") rather than leaving it as a one-time design choice, so a later
+session draft gets checked against the framework the earlier weeks already
+fixed, not against what would make that week more interesting on its own.
+
 ## How I got here
 
 I started from the platform's fixed template (`comp4020-ass2-ryschneider`,

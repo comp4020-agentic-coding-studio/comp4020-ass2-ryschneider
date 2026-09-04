@@ -81,3 +81,15 @@ rather than one sentence, fix both the content and this file: add or sharpen
 a rule here so the next writing pass doesn't reintroduce the pattern. A
 correction that only changes files, and not the harness, gets relearned the
 hard way next session.
+
+## One throughline, not new machinery every week
+
+Calling Bullshit, How to Make (Almost) Anything and CS 007 each commit to one
+idea and run it the whole way through a semester rather than covering
+ground. This course's version of that is the four-part framework (vacuum,
+claim, pivot, response): every session applies it to a new splinter group
+rather than teaching a new analytical lens for variety. A session draft that
+introduces a fifth element, or swaps the lens for "freshness," is schema-valid
+but breaks the pattern the other eleven weeks set — check new session content
+against the framework already fixed by the earlier weeks, not against what
+would make that one week more interesting standing alone.

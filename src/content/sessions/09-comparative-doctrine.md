@@ -7,6 +7,9 @@ week: 9
 date: 2027-04-19
 teachers:
   - marisol-quaye
+spec:
+  - you can name one doctrine two branches kept and one they dropped, and
+    tie each choice back to the pivot that branch made at its founding
 ---
 
 ## Before the session

@@ -7,6 +7,9 @@ week: 8
 date: 2027-04-12
 teachers:
   - idris-fenn
+spec:
+  - you can state the founding claim of one small splinter group in three
+    sentences, and identify its vacuum, claim, pivot and response
 ---
 
 ## Before the session

@@ -7,6 +7,10 @@ week: 7
 date: 2027-04-05
 teachers:
   - marisol-quaye
+spec:
+  - you can explain why the fundamentalist movement's pivot is continuationism
+    rather than a founder's death, and how that makes it a different shape
+    of schism than weeks 2–5's
 ---
 
 ## Before the session

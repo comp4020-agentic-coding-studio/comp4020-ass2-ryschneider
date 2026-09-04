@@ -17,11 +17,11 @@ kept practicing plural marriage regardless.
 
 ## In the session
 
-A schism doesn't need a dead founder. The fundamentalist movement splits from
-the mainstream church over a doctrine the mainstream church itself changed —
-continuationism, the claim that a true revelation cannot be un-revealed by a
-press release. We trace this to Short Creek (later Colorado City/Hildale) and
-the FLDS church, still operating today.
+This schism has no dead founder. The fundamentalist movement splits from the
+mainstream church over a doctrine the mainstream church itself changed —
+continuationism, the claim that a valid revelation stays binding even after
+the church publicly reverses its position. We trace this to Short Creek
+(later Colorado City/Hildale) and the FLDS church, still operating today.
 
 ## Afterwards
 

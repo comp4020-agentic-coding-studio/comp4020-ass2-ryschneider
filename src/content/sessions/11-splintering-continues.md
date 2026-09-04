@@ -18,7 +18,7 @@ related:
 
 Read about the Reorganization's 1984 decision to ordain women, and the
 "Restoration branches" that split off in response — the same church that
-itself began as a splinter, splintering again a century later.
+itself began as a splinter group in 1860.
 
 ## In the session
 

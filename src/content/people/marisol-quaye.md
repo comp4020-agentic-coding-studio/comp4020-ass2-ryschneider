@@ -12,11 +12,9 @@ contact: Email for course-level questions; use the weekly session for feedback o
 Marisol's research tracks what happens to a religious movement in the years
 after its founder dies without naming an heir — who claims the mantle, who
 walks away, and which claims manage to outlive the argument that produced
-them. The Latter Day Saint succession crisis is the case she keeps returning
-to, because so much of the aftermath is still an operating church today: you
-can visit Salt Lake City, Independence and Beaver Island in the same trip and
-attend three different congregations that all trace themselves to the same
-man.
+them. The Latter Day Saint succession crisis is the case she keeps returning to,
+because several of the churches it produced are still active today, in Salt
+Lake City, Independence, and elsewhere.
 
 She designed this course to spend a full semester inside that one fracture
 rather than surveying a dozen unrelated schisms, on the theory that you learn

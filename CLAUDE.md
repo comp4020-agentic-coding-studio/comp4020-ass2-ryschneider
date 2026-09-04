@@ -63,3 +63,21 @@ ones.
 Write `PROCESS.md`'s commit links after the commit exists, never as
 placeholders to fill in later — a citation that doesn't resolve is worse than
 no citation, and `pnpm check:evidence` checks that every one does.
+
+## Content conveys information; it doesn't perform style
+
+Sessions, lectures, decks and bios exist so a student can learn what happened
+and why it matters, not to be read for voice. Metaphor, aphorism, and
+rhetorical echo cost a sentence without adding a fact — a first content pass
+let several through (a "fault lines" metaphor in the week 1 deck, an
+"un-revealed by a press release" turn of phrase in week 7, a "splinter,
+splintering" echo in week 11). When a sentence is memorable but a plainer
+version says the same thing, use the plain version.
+
+## A correction to a pattern is a harness change, not a one-off fix
+
+When feedback targets a pattern across the content ("make it all succinct")
+rather than one sentence, fix both the content and this file: add or sharpen
+a rule here so the next writing pass doesn't reintroduce the pattern. A
+correction that only changes files, and not the harness, gets relearned the
+hard way next session.

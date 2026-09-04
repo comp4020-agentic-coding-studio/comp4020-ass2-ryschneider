@@ -90,6 +90,34 @@ function so it fans out inside a bounded wedge, then repositioned the trunk
 until it rendered cleanly within frame:
 [`a68f4fa`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-ryschneider/commit/a68f4fa).
 
+**Correcting course after a first pass.** A re-read of all 12 weeks together
+surfaced two problems the schema doesn't catch. First, style: a "fault lines"
+metaphor in the week 1 deck, an "un-revealed by a press release" turn of
+phrase in week 7, and a "splinter, splintering" echo in week 11 were
+memorable but cost a sentence without adding a fact, so I cut them and wrote
+the rule that would stop it recurring rather than just fixing the three
+sentences:
+[`8bc2f12`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-ryschneider/commit/8bc2f12).
+Second, the course had adopted "Splinter" as an informal brand name in the
+card image's subtitle and elsewhere, which the brief's own framing doesn't
+ask for and which drifted from the course's actual title; I dropped the
+subtitle line
+([`987ca67`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-ryschneider/commit/987ca67))
+and then the name itself
+([`64c7b40`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-ryschneider/commit/64c7b40)),
+and separately removed the homepage's tag pills, which were decorative
+rather than informative for a one-course site
+([`7bfdf8d`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-ryschneider/commit/7bfdf8d)).
+
+**Closing two coherence gaps.** Weeks 7-9 were the only sessions missing a
+`spec:` line stating what a student should be able to do by the end of the
+week — a pattern break the schema allows because the field is optional:
+[`5f760e5`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-ryschneider/commit/5f760e5).
+I also added a course-specific check, alongside the assignment's own generic
+spec tests, that every session states one of these outcomes, so the gap
+can't reopen silently:
+[`fc7feab`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-ryschneider/commit/fc7feab).
+
 Throughout, I checked correctness with `pnpm check` (typecheck, build, and
 the spec tests) after each content section rather than only at the end, and
 did a final `git grep -F "STARTER_CONTENT" -- src` sweep to confirm nothing

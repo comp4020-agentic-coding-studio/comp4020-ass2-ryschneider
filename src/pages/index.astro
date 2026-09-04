@@ -5,33 +5,41 @@ import ContentLayout from "astro-theme-university/layouts/ContentLayout.astro";
 import heroImage from "../assets/images/hero-home.avif";
 import { courseMeta } from "../course-config";
 import { sessionLabels, siteConfig } from "../site-config";
-
-// STARTER_CONTENT: replace the hero artwork and its alt text below, then
-// remove this comment.
 ---
 
 <ContentLayout
   title={`${courseMeta.code}: ${courseMeta.title}`}
   description={courseMeta.description}
   heroImage={heroImage}
-  heroImageAlt="A lecture theatre reduced to flat gold and black shapes, rows of seats sweeping past the frame, in a two-ink risograph print"
+  heroImageAlt="A single black line branching into a dozen diverging lines against a warm cream ground, each branch dated 1844 onward"
   {...siteConfig}
 >
   <ul class="course-tags" aria-label="Course tags">
     {courseMeta.tags.map((tag) => <li>{tag}</li>)}
   </ul>
 
-  <!-- STARTER_CONTENT: replace the authored page below, then remove this comment. -->
   <h2>What you will do</h2>
   <p>
-    Say what a student spends their time on — the making, reading, arguing or
-    measuring that fills the weeks. Name the artefact they walk out with.
+    Every week you'll work through one stage of a single fracture cascade:
+    Joseph Smith's death in 1844 with no named successor, and the dozens of
+    competing churches that argument produced. You'll read primary-source-depth
+    accounts of contested events, apply a four-part framework — succession
+    vacuum, charismatic claim, doctrinal pivot, institutional response — to a
+    splinter group of your own choosing, and finish the semester having built a
+    map of the whole movement's family tree. You walk out with two pieces of
+    written argument (Assignment 1) and analysis (the final project), both
+    grounded in evidence you can point to.
   </p>
 
   <h2>Who it is for</h2>
   <p>
-    Say who this is aimed at and what they need to already know. Be specific
-    enough that someone can rule themselves in or out without emailing you.
+    Anyone interested in how institutions actually split — not just this one
+    religious movement, but the general mechanics of succession crises,
+    competing claims to legitimacy, and doctrine bending to justify a decision
+    already made. No prior knowledge of Latter Day Saint history is assumed;
+    what's assumed is a willingness to read primary sources closely and argue
+    from evidence rather than from what "everybody knows" about a group you've
+    likely only heard caricatured.
   </p>
 
   <h2>Where to go next</h2>

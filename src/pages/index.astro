@@ -14,10 +14,6 @@ import { sessionLabels, siteConfig } from "../site-config";
   heroImageAlt="A single black line branching into a dozen diverging lines against a warm cream ground, each branch dated 1844 onward"
   {...siteConfig}
 >
-  <ul class="course-tags" aria-label="Course tags">
-    {courseMeta.tags.map((tag) => <li>{tag}</li>)}
-  </ul>
-
   <h2>What you will do</h2>
   <p>
     Every week you'll work through one stage of a single fracture cascade:
@@ -55,22 +51,3 @@ import { sessionLabels, siteConfig } from "../site-config";
     </Card>
   </CardGrid>
 </ContentLayout>
-
-<style>
-  .course-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin-block: 0 2rem;
-    padding: 0;
-    list-style: none;
-  }
-
-  .course-tags li {
-    padding: 0.25rem 0.65rem;
-    border-radius: 999px;
-    color: var(--at-text-secondary);
-    background: var(--at-bg-alt);
-    font-size: 0.9rem;
-  }
-</style>

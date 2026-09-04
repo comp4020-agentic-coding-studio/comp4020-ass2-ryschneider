@@ -1,36 +1,32 @@
 ---
-title: First review
+title: Carthage Jail and the Vacuum
 description:
-  The second session, where work made in week 1 meets an audience for the first
-  time
+  June 27, 1844 — what happened at Carthage, and why no single body could
+  immediately fill the gap it left
 week: 2
 date: 2027-03-01
 teachers:
   - idris-fenn
 spec:
-  - work from week 1 is running and can be shown in under two minutes
-  - you can name the one decision you are least sure about
-related:
-  - assessments/assignment-1
+  - you can state, in one sentence, why Sidney Rigdon's claim was procedurally
+    strong but politically weak
 ---
-
-<!-- STARTER_CONTENT: replace this session, then remove this comment. -->
-
-Replace this page. It is here so the sessions listing sorts by week, the detail
-route renders a second spec, and the related block has an edge into the
-assessment collection.
 
 ## Before the session
 
-Bring the work from week 1 and the one decision you are least sure about.
+Read a primary-source-depth account of the killing at Carthage Jail on June
+27, 1844, and note who was where — Nauvoo, Carthage, and on the road between
+them. Bring one specific detail from your own splinter group's founding
+story.
 
 ## In the session
 
-Short demos, then feedback aimed at the decision rather than the polish. What
-makes a review worth attending is that the feedback changes what someone does
-next, so build in the time to act on it.
+The immediate scramble: Sidney Rigdon's return from Pittsburgh three weeks
+later to claim "guardianship" of the church, the Twelve's return from an
+electioneering mission on the eastern seaboard, and the August 8 conference
+where the question gets settled in public, in front of thousands of people,
+in a single afternoon.
 
 ## Afterwards
 
-If attendance or participation is worth marks, say so here and link the rule to
-the [assessment page](/assessments/) rather than restating it.
+Nothing graded this week. Week 3 covers the conference itself.

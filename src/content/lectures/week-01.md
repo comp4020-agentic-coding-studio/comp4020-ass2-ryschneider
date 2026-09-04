@@ -1,8 +1,8 @@
 ---
-title: Opening lecture
+title: "Before the Fracture: Nauvoo, 1844"
 description:
-  The first lecture — what the course is, why it is shaped this way, and what
-  happens in week 1
+  The power centres inside Nauvoo before Joseph Smith's death, and the
+  framework the semester tests against them
 week: 1
 date: 2027-02-22
 teachers:
@@ -12,19 +12,12 @@ related:
   - sessions/01-getting-started
 ---
 
-<!-- STARTER_CONTENT: replace this lecture, then remove this comment. -->
-
-Replace this page. A lecture entry says what was covered and links to the pages
-that own the detail, so the lecture stays short and nothing is explained twice.
-
-The `related:` ref above is a graph edge: it renders on this page and on the
-session's, so declare a connection once, on whichever side is convenient.
-
-The page renders its `slides:` link automatically. Decks are markdown too,
-under `src/decks/`; the path is part of the lecture's API metadata.
-
 ## Outline
 
-- what the course is for
-- how the weeks are shaped
-- what to do before the first session
+- Nauvoo in 1844: the Nauvoo Legion, the Council of Fifty, and Smith's
+  simultaneous civic and ecclesiastical titles
+- the two doctrines nobody outside the inner circle was told about: plural
+  marriage, and the fullness of priesthood ordinances given to the Twelve
+- the four-part framework this course uses all semester: vacuum, claim,
+  pivot, response
+- what to bring to week 2
